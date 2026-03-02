@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nandhakumar-s-91b1892ba?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nandhakumar .s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
