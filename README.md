@@ -82,7 +82,9 @@
 Burp Suite | Nmap | Wireshark | Metasploit | SQLMap | Nuclei
 Git | GitHub | Linux | Bash | Python | Networking
 
-## 📊 GitHub Statistics
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandha-k-pixel&show_icons=true&theme=tokyonight"/>
