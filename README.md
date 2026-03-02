@@ -78,11 +78,11 @@
 
 # 🧰 Tools & Technologies
 
-```bash
+
 Burp Suite | Nmap | Wireshark | Metasploit | SQLMap | Nuclei
 Git | GitHub | Linux | Bash | Python | Networking
 
----
+----
 
 # 📊 GitHub Statistics
 
