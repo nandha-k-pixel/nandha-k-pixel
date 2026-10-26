@@ -36,19 +36,15 @@
 
 ---
 
+```html
 ## `whoami` — About Me
 
-```bash
-$ whoami
-Nandha — Cybersecurity Engineering Student
-
-$ cat focus.txt
-Web Application Security • Penetration Testing • Recon Automation
-Python Security Tools • Network Security • Red Team Fundamentals
-
-$ cat mission.txt
-Learn continuously. Test methodically. Document clearly.
-Build practical tools that help identify and reduce security risk.
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=1000&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=850&height=300&lines=%24+whoami;Nandha+%E2%80%94+Cybersecurity+Engineering+Student;%24+cat+focus.txt;Web+Application+Security+%E2%80%A2+Penetration+Testing;Recon+Automation+%E2%80%A2+Python+Security+Tools;%24+cat+mission.txt;Learn+continuously.+Test+methodically.;Document+clearly.+Reduce+security+risk."
+    alt="Animated cybersecurity terminal"
+  />
+</div>
 ```
 
 - 🎓 **B.E. Cyber Security** — expected graduation: **2027**
