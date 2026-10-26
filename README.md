@@ -36,7 +36,6 @@
 
 ---
 
-```html
 ## `whoami` — About Me
 
 <div align="center">
