@@ -44,8 +44,6 @@
     alt="Animated cybersecurity terminal"
   />
 </div>
-```
-
 - 🎓 **B.E. Cyber Security** — expected graduation: **2027**
 - 🔎 Interested in **web application penetration testing**, vulnerability research, and attack-surface discovery.
 - 🐍 Building Python tools to automate security checks and organize findings.
